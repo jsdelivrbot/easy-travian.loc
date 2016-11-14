@@ -1,1 +1,4 @@
-console.log("Hello travian");
+function hello(){
+  console.log("Hello travian");
+}
+
